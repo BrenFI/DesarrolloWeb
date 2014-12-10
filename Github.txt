@@ -1,0 +1,15 @@
+FTP
+//Sistema de transmisión de archivos
+//Hosting barato normal---> /public
+
+Problemas con FTP
+1. No puede accesar varias personas
+2. No se sabe quién hizo las ediciones
+3.No hay forma de mantenerse actualizado
+
+SISTEMA DE CONTROL DE VERSIONES
+
+SVN: Subversión/ Mercurial/ TFS/ CVS/ GIT
+Github: 
+
+Clon local----->commit
